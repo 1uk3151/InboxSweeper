@@ -7,6 +7,7 @@ ____________________________________________________________________
 
 You must configure your Gmail account before using this script. 
   1. In Gmail Settings > See all settings > Forwarding and POP/IMAP > Enable IMAP
+       The script using IMAPS over port 993.   
   2. In your Google account settings, create an app password (Search in settings for "app password"). The password can be named whatever
      you prefer. Google will randomly generate the password in the format:
            xxxx xxxx xxxx xxxx
