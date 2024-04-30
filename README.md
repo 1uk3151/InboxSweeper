@@ -13,6 +13,8 @@ You must configure your Gmail account before using this script.
            xxxx xxxx xxxx xxxx     This is the password you will use in your credentials file.
 ____________________________________________________________________
 
+You must install Python and the pyyaml module to run. To install pyyaml, after installing Python, use the command: pip install pyyaml
+
 To run the script, you must specify 2 arguments:
    1. Credentials file in yaml format. (See SampleCredFile.yaml for example of format.)
    2. Location of log output. Log file needs to be a txt file.
